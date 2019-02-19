@@ -31,3 +31,28 @@ UX research methods for this phase include
 * Market analysis
 
 If you are looking for a partner to help you validate the real needs or problem, look no further. We can help!
+
+# **Product validation**
+
+In the next phase of the product design process,We validate a solution by Measuring the target audience’s interest for a product/feature idea.        
+
+UX research methods in this phase:
+
+* Landing page tests
+* Website analytics
+* Fake door tests
+* A/B tests
+
+# Product prototyping
+
+ In this phase, Ideas are converted into prototypes. Run several iterations of prototypes at this phase. Usability gets tested extensively.
+
+Changing the prototype and having another round of usability tests costs less than fixing things in a developed software.
+
+UX research methods in this phase:
+
+*    User journey mapping
+*    User tests
+*    Heatmap analytics
+*    Click analytics
+*    Card sorting
