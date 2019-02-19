@@ -24,4 +24,34 @@ description: |-
 tags:
   - design
 ---
-iooiii
+
+
+How and when to do UX research
+
+
+
+First determine your position, and then decide what kind of research to use.
+
+
+
+We differentiate among four different phases in a product lifecycle:
+
+
+
+\    Discovery
+
+
+
+\    Validation
+
+
+
+\    Prototyping
+
+
+
+\    Follow-up
+
+
+
+User research can and needs to be done in each of these phases. The exact method, frequency and research design, however, highly depends on which phase the product is currently in.
