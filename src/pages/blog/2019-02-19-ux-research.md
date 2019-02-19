@@ -9,7 +9,7 @@ tags:
 ---
 Based on the different phases in a product lifecycle, We help determine  what kind of research to use
 
-![](/img/apple-touch-icon.png)
+![](/img/chemex.jpg)
 
 * Discovery
 * Validation
