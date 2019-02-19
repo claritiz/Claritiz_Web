@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Servicess
+title: Services
 date: 2019-02-19T12:46:50.967Z
 description: |-
   Accelerated Innovation Workshop / Design Sprint
@@ -24,34 +24,38 @@ description: |-
 tags:
   - design
 ---
+Accelerated Innovation Workshop / Design Sprint
 
+Idea to proto
 
-How and when to do UX research
-
-
-
-First determine your position, and then decide what kind of research to use.
-
-
-
-We differentiate among four different phases in a product lifecycle:
+Idea to MVP
 
 
 
-\    Discovery
+UX Audit
+
+UX Research
 
 
 
-\    Validation
+\--
+
+Digital Services --
+
+Digital Marketing
+
+Digital - CMS (Serverless)
+
+Website, Knowledge Mgmt, E-Commerce (Rapid MVP Implementation)
 
 
 
-\    Prototyping
 
 
+Extend your team - 
 
-\    Follow-up
+\- with our Design / Research professionals
 
+\- Front End Development
 
-
-User research can and needs to be done in each of these phases. The exact method, frequency and research design, however, highly depends on which phase the product is currently in.
+\- Mobility Development
