@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: User Research
+title: Services - with time line
 date: 2019-02-19T13:03:28.981Z
 description: |
   Idea to prototype/ storyboard - 2 weeks exercise
