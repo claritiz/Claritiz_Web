@@ -9,14 +9,14 @@ tags:
 ---
 Based on the different phases in a product lifecycle, We help determine  what kind of research to use
 
-*    Discovery
-*    Validation
-*    Prototyping
-*    Follow-up
+![](/img/apple-touch-icon.png)
+
+* Discovery
+* Validation
+* Prototyping
+* Follow-up
 
 User research can and needs to be done in each of these phases. The exact method, frequency and research design, however, highly depends on which phase the product is currently in.
-
-
 
 # Discovery
 
@@ -24,10 +24,10 @@ In this phase, search for a target audience’s problem and its solution. This w
 
 UX research methods for this phase include
 
-*    Interview
-*    Market survey
-*    Field research
-*    Competitor analysis and industry research
-*    Market analysis
+* Interview
+* Market survey
+* Field research
+* Competitor analysis and industry research
+* Market analysis
 
 If you are looking for a partner to help you validate the real needs or problem, look no further. We can help!
