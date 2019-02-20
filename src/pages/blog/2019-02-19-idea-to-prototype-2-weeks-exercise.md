@@ -17,45 +17,39 @@ tags:
 ---
 ![](/img/flavor_wheel.jpg)
 
+ In only 5 days to 2 weeks, Our Innovation Workshop simplifies the design process of a digital product.
+
+During the sprint, you rapidly progress from problem to tested solution.The design sprint allows you to solve any design problem.
+
+Helps in answering critical business questions through design, rapid design prototyping, and testing ideas. The process is as follows:
+
 ## Prototyping
 
 Between the idea, and the MVP, you have the prototype.
 
 Prototypes are perfect for numerous iterative designs and development, being simpler than an MVP.
 
-
-
 ## Identify Key Functionality Features
 
 The first step of prototyping is to identify the key features of your app.
-
-
 
 ## Create User Personas
 
 Categorizing User Personas helps in deciding better UI and functionality features for your app.
 
-
-
 ## Designing the Primary Screens
 
 Design Sketches can be used to get buy-ins from stakeholders before moving forward with the complete development of your app.
 
-
-
-##  Wireframes
+## Wireframes
 
 Turn the Design sketches Into Wireframes, a low-fidelity representation of the UI
-
-
 
 ## Create the Prototype
 
 Wireframes are then transformed into a prototype by adding basic functionality and interactivity.
 
 A prototype will help you calibrate the UI and improve the user journey.
-
-
 
 ## User Testing
 
