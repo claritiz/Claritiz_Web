@@ -51,11 +51,11 @@ Changing the prototype and having another round of usability tests costs less th
 
 UX research methods in this phase:
 
-*    User journey mapping
-*    User tests
-*    Heatmap analytics
-*    Click analytics
-*    Card sorting
+* User journey mapping
+* User tests
+* Heatmap analytics
+* Click analytics
+* Card sorting
 
 ## Testing UI design
 
@@ -63,8 +63,10 @@ With users providing feedback,UI can be tested and modified.
 
 UX research methods in this phase include:
 
-*    UX metrics
-*    UX surveys
-*    Heatmaps
-*    Recording
-*    Data analysis
+* UX metrics
+* UX surveys
+* Heatmaps
+* Recording
+* Data analysis
+
+Exact method, frequency and research design depends on which phase the product is currently in.
